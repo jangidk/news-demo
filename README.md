@@ -1,2 +1,9 @@
-# news-demo
-this is a demo for news
+{
+status:"ok:,
+totalresult:66;
+-articles:[
+-{
+  -source:{
+    id:null,
+    name:"investor's business daily"
+    },
